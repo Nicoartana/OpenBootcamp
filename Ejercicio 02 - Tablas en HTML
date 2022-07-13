@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablas</title>
+</head>
+<body>
+    <h3>Mejores libros</h3>
+    <table>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Año de publicación</th>
+            <th>Enlace de amazon</th>
+
+        </tr>
+        <tr>
+            <td>1984</td>
+            <td>George Orwell</td>
+            <td>1961</td>
+            <td>https://leggi.amazon.it/kp/embed?asin=B08SLS7BZ9&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_1C6VZ45SXM61X6RVW5ZW</td>
+
+
+        </tr>
+        <tr>
+            <td>The Shining</td>
+            <td>Stephen King</td>
+            <td>2012</td>
+            <td>https://leggi.amazon.it/kp/embed?asin=B001BANK32&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_2SGB3JE7Z9VSX5HN93NF</td>
+
+
+        </tr>
+
+        <tr>
+            <td>Fahrenheit 451</td>
+            <td>Ray Bradbury</td>
+            <td>2012</td>
+            <td>https://leggi.amazon.it/kp/embed?asin=B00BAJ6GL2&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_6F8B379NBER19K3VJGVQ</td>
+
+
+        </tr>
+    </table>
+</body>
+</html>
